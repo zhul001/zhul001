@@ -20,18 +20,19 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=zhul001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF">
-  <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02394048503e3be0e65e962638" width="220">
-</a>
+<div style="width:100%; max-width:450px; background:#121212; border-radius:12px; padding:12px; display:flex; align-items:center; gap:12px;">
+  <a href="https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF">
+    <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02394048503e3be0e65e962638" width="80" style="border-radius:8px;">
+  </a>
 
-<br>
-<strong>Multo</strong><br>
-Cup Of Joe
-
-<br><br>
-<a href="https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="32">
-</a>
+  <div style="color:white; font-family:Arial, sans-serif; font-size:14px;">
+    <div style="font-weight:bold;">Multo</div>
+    <div style="color:#b3b3b3;">Nadin Amizah</div>
+    <a href="https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF" style="text-decoration:none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="22" style="margin-top:6px;">
+    </a>
+  </div>
+</div>
 
 ###
 
