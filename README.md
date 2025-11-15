@@ -20,56 +20,20 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=zhul001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div style="
-  width:100%;
-  max-width:520px;
-  background:#181818;
-  border-radius:12px;
-  padding:16px;
-  display:flex;
-  gap:16px;
-  font-family:Arial, sans-serif;
-  color:white;
-">
-  <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02394048503e3be0e65e962638" 
-       width="90" style="border-radius:8px;">
-
-  <div style="flex:1;">
-    <div style="font-size:18px; font-weight:bold;">Multo</div>
-    <div style="color:#b3b3b3; margin-bottom:10px;">Cup of Joe</div>
-
-    <div style="display:flex; align-items:center; gap:6px; margin-bottom:14px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Check_icon.svg/1024px-Check_icon.svg.png" 
-           width="16">
-      <span style="color:#b3b3b3; font-size:13px;">Saved on Spotify</span>
-    </div>
-
-    <div style="
-      width:100%;
-      height:4px;
-      background:#404040;
-      border-radius:2px;
-      margin-bottom:6px;
-    ">
-      <div style="
-        width:45%;
-        height:100%;
-        background:#1db954;
-        border-radius:2px;
-      "></div>
-    </div>
-
-    <div style="display:flex; justify-content:space-between; color:#b3b3b3; font-size:12px;">
-      <span></span>
-      <span>03:57</span>
-    </div>
-  </div>
-
-  <a href="https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" 
-         width="26" style="opacity:0.9;">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF">
+        <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02394048503e3be0e65e962638" width="90">
+      </a>
+    </td>
+    <td>
+      <b>Multo</b><br>
+      Cup of Joe<br><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Spotify_logo_with_text.svg" width="80">
+    </td>
+  </tr>
+</table>
 
 ###
 
