@@ -20,20 +20,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=zhul001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF">
-        <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02394048503e3be0e65e962638" width="90">
-      </a>
-    </td>
-    <td>
-      <b>Multo</b><br>
-      Cup of Joe<br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Spotify_logo_with_text.svg" width="80">
-    </td>
-  </tr>
-</table>
+<a href="https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF">
+  <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02394048503e3be0e65e962638" width="300">
+</a>
+
+<br>
+<b>Multo</b><br>
+Cup of Joe
 
 ###
 
